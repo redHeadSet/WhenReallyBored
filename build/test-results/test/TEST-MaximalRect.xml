@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MaximalRect" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-30T14:47:51" hostname="Hanjaeui-MacBookPro.local" time="0.052">
+  <properties/>
+  <testcase name="testMain()" classname="MaximalRect" time="0.052"/>
+  <system-out><![CDATA[maximalRectangle : 21
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
